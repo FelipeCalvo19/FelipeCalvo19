@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Felipe! 👋
 
-<!--
-**FelipeCalvo19/FelipeCalvo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student (5th semester) on a mission to build intelligent, scalable solutions. Currently, I'm deep-diving into **Python Backend Development** and **AI Engineering**, with a specific focus on RAG architectures and LLM Agent orchestration.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm currently building:
+* **🤖 Delivery AI Agent:** A full-stack (Flask/FastAPI + MongoDB) delivery system enhanced with an AI agent for smart order taking and suggestions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack:
+* **Languages:** Python (Primary focus)
+* **Backend:** Flask, FastAPI, REST APIs, SQL, NoSQL (MongoDB)
+* **AI & Data:** RAG, LLMs, LangChain
+* **Tools:** Git, GitHub, Docker
+
+### 🌱 Continuous Learning:
+I believe in constant evolution. I'm currently following structured learning paths from Alura in AI and Backend Engineering, always applying new concepts to real-world projects.
